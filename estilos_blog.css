@@ -1,0 +1,86 @@
+.btn-lg-round {
+    border-radius: 24px;
+}
+
+.form-control {
+    text-align: center;
+}
+
+.fa-music {
+    font-size: 40px;
+    color: rgb(46, 42, 5);
+    padding-right: 10px;
+}
+
+.titulin {
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+    font-size: 35px;
+    /* padding-left: 20px; */
+    text-align: center;
+}
+
+.figure-caption {
+    color: black;
+    background-color: rgb(221, 208, 208);
+    font-family: 'Libre Baskerville', serif;
+    font-size: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.center {
+    align-content: center;
+}
+
+body {
+    background-image: url(pianofondo.jpg);
+    background-size: cover;
+    /* background-position: center center; */
+}
+
+.responsive-object iframe {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 80%;
+}
+
+.saiz {
+    width: 350px;
+    height: 350px;
+}
+
+.figurin {
+    width: 120px;
+    height: 120px;
+}
+
+.titulinshiquito {
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.titulinchiki {
+    display: block;
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+
+.claseenlace {
+    font-family: 'Rock Salt', cursive;
+    color: turquoise;
+    text-decoration: underline;
+    font-size: 15px;
+    text-align: justify;
+}
+
+iframe {
+    position: relative;
+    margin: auto;
+}
